@@ -200,8 +200,8 @@ const Home = () => {
 
             <div className=' flex flex-col items-center justify-center text-center md:text-start md:items-start md:justify-start lg:w-[46%]'>
               <h3 className='text-[28px] md:text-[36px] font-bold my-6'>Effective Communication:</h3>
-              <p className='text-[#7D7987] text-[18px] leading-[30px]'> Fluent speech is the cornerstone of effective communication. Whether in personal relationships, professional settings, or public speaking, clear and confident expression is vital.</p>
-              <p className='text-[#7D7987] text-[18px] leading-[30px] my-2'>Fluent Speech equips you with the skills to convey your thoughts with precision and confidence, ensuring your message is heard and understood </p>
+              <p className='text-[#7D7987] text-[18px] leading-[30px]'> Clearspeak is the cornerstone of effective communication. Whether in personal relationships, professional settings, or public speaking, clear and confident expression is vital.</p>
+              <p className='text-[#7D7987] text-[18px] leading-[30px] my-2'>Clearspeak equips you with the skills to convey your thoughts with precision and confidence, ensuring your message is heard and understood </p>
               {/* <p className='text-[#7D7987] text-[18px] leading-[30px]'>
                 Manage your schedule using any device</p> */}
             </div>
@@ -217,7 +217,7 @@ const Home = () => {
 
             <div className=' flex flex-col items-center justify-center text-center md:text-start md:items-start md:justify-start lg:w-[46%]'>
               <h3 className='text-[28px] md:text-[36px] font-bold my-6'>Boosted Self-Confidence</h3>
-              <p className='text-[#7D7987] text-[18px] leading-[30px]'> Stammering or speech challenges can erode self-confidence. Fluent Speech exists to restore that confidence by providing the tools and support you need to overcome speech impediments.</p>
+              <p className='text-[#7D7987] text-[18px] leading-[30px]'> Stammering or speech challenges can erode self-confidence. Clearspeak exists to restore that confidence by providing the tools and support you need to overcome speech impediments.</p>
               <p className='text-[#7D7987] text-[18px] leading-[30px] my-2'>We believe that everyone deserves the opportunity to express themselves boldly and without reservation. </p>
               {/* <p className='text-[#7D7987] text-[18px] leading-[30px]'>
               Create your own evaluations or use built in templates for your clients</p> */}
@@ -234,8 +234,8 @@ const Home = () => {
 
             <div className=' flex flex-col items-center justify-center text-center md:text-start md:items-start md:justify-start lg:w-[46%]'>
               <h3 className='text-[28px] md:text-[36px] font-bold my-6'>Career Advancement</h3>
-              <p className='text-[#7D7987] text-[18px] leading-[30px]'> In today's competitive world, strong communication skills are paramount. Fluent speech opens doors to career opportunities and personal growth</p>
-              <p className='text-[#7D7987] text-[18px] leading-[30px] my-2'>With Fluent Speech, you'll gain the edge you need to excel in interviews, presentations, and everyday interactions, unlocking a world of possibilities. </p>
+              <p className='text-[#7D7987] text-[18px] leading-[30px]'> In today's competitive world, strong communication skills are paramount. Clearspeak opens doors to career opportunities and personal growth</p>
+              <p className='text-[#7D7987] text-[18px] leading-[30px] my-2'>With  Clearspeak, you'll gain the edge you need to excel in interviews, presentations, and everyday interactions, unlocking a world of possibilities. </p>
               {/* <p className='text-[#7D7987] text-[18px] leading-[30px]'>
               Allow clients to setup auto billing from their client portal</p> */}
             </div>
@@ -287,7 +287,7 @@ const Home = () => {
 
  The platform's user-friendly approach have made a world of difference.
 
-I highly recommend Fluent Speech to anyone seeking to improve their speech and gain confidence. It's been a life-changing experience for me, and I couldn't be more grateful for this wonderful platform.</p>
+I highly recommend Clearspeak to anyone seeking to improve their speech and gain confidence. It's been a life-changing experience for me, and I couldn't be more grateful for this wonderful platform.</p>
       <img className='absolute bottom-0 right-0 w-[46px] h-[52px]' src={homeQuotEnd} alt="" />
      
     </div>
