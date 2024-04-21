@@ -24,6 +24,9 @@ import homeRecoDate2 from '../../images/home/home-card-img-4-speech.jpg'
 import homeReco2 from '../../images/home/home-card-img-3-speech.jpg'
 
 
+import homeNewHero from '../../images/home/hero-green.jpg'
+
+
 // client img
 import homeClient1 from '../../images/home/home-client-1.svg'
 import homeClient2 from '../../images/home/home-client-2.svg'
