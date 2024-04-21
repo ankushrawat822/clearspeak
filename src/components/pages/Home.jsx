@@ -191,7 +191,7 @@ const Home = () => {
 
         {/* our recognition and awards..... */}
         <div className='flex flex-col items-center justify-center my-20 md:my-14 lg:my-20'>
-          <p className='text-[24px] md:text-[36px] lg:text-[46px] text-center font-bold mb-10 md:mb-10'>Why Fluent-Speech?</p>
+          <p className='text-[24px] md:text-[36px] lg:text-[46px] text-center font-bold mb-10 md:mb-10'>Why Clearspeak?</p>
           {/* content divs starts*/}
           {/* first starts */}
           <div data-aos="fade-up"  className=' flex flex-col md:flex-row items-center justify-center gap-5 md:gap-10 lg:gap-20 '>
